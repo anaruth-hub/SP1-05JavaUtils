@@ -1,0 +1,13 @@
+D - main - 2025-12-13 21:34:14
+ D - java - 2025-12-13 22:43:20
+  D - com - 2025-12-13 22:43:20
+   D - ana - 2025-12-13 22:43:20
+    D - javaUtils - 2025-12-13 22:43:20
+     D - level1 - 2025-12-14 08:55:59
+      F - DirectoryListerEx01.java - 2025-12-14 08:02:10
+      F - DirectoryTreeToTxtEx03.java - 2025-12-14 08:55:59
+      F - FileReaderExampleEx02.java - 2025-12-14 08:02:10
+ D - resources - 2025-12-14 00:03:45
+  F - sample.txt - 2025-12-14 00:03:45
+D - test - 2025-12-13 21:34:14
+ D - java - 2025-12-13 21:34:14
