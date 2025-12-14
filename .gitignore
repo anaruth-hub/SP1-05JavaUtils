@@ -44,3 +44,12 @@ target/
 # Archivos generados por ejercicios
 *.ser
 tree.txt
+# Build outputs
+out/
+target/
+*.class
+
+# Generated runtime files (from exercises)
+personEx05.ser
+tree.txt
+
