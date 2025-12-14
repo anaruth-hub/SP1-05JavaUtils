@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class FileReaderExample {
+public class FileReaderExampleEx02 {
 
      public  static void main(String[] args) {
 

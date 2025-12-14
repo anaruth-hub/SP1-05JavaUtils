@@ -3,7 +3,7 @@ package com.ana.javaUtils.level1;
 import java.io.File;
 import java.util.Arrays;
 
-public class DirectoryLister {
+public class DirectoryListerEx01 {
 
     public static void main(String[] args) {
 
